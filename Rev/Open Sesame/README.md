@@ -2,7 +2,7 @@
 
 Whisper the phrase, unveil with 'Open Sesame
 
-Attachment: https://staticbckdr.infoseciitr.in/opensesame.zip
+Attachment: /opensesame.zip
 
 ## Solution
 
