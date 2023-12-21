@@ -2,7 +2,7 @@
 
 Whisper the phrase, unveil with 'Open Sesame
 
-Attachment: /opensesame.zip
+Attachment: [/opensesame.zip](https://github.com/taqsoimh/Backdoor-CTF-2023/blob/main/Rev/Open%20Sesame/opensesame.zip)
 
 ## Solution
 
